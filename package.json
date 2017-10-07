@@ -1,0 +1,21 @@
+{
+  "name": "view",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "ts-loader": "latest",
+    "tslint": "latest",
+    "tslint-loader": "latest",
+    "typescript": "latest",
+    "webpack": "latest",
+    "webpack-dev-server": "latest",
+    "css-loader": "latest",
+    "html-webpack-plugin": "latest",
+    "style-loader": "latest"
+  },
+  "scripts": {
+    "start": "webpack-dev-server",
+    "build": "webpack"
+  }
+}

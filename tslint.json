@@ -1,0 +1,9 @@
+{
+    "rules": {
+        "no-var-keyword": true,
+        "only-arrow-functions": [
+            true
+        ],
+        "no-invalid-this": true
+    }
+}
